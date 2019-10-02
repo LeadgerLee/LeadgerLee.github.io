@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[sklearn]]></title>
+    <url>%2F2019%2F05%2F08%2Fsklearn%2F</url>
+    <content type="text"><![CDATA[Scikit-Learn机器学习实践[TOC] 数据生成KNN(K最近邻算法)线性回归##]]></content>
+      <tags>
+        <tag>Machine Learning</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Try]]></title>
     <url>%2F2019%2F01%2F16%2FTry%2F</url>
     <content type="text"><![CDATA[加油啊公式$$ a=b^2 $$ 1print('Hello') 有一个函数]]></content>

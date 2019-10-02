@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leadger.com/"/>
-  <updated>2019-01-16T14:35:37.236Z</updated>
+  <updated>2019-05-08T12:42:23.164Z</updated>
   <id>https://leadger.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sklearn</title>
+    <link href="https://leadger.com/2019/05/08/sklearn/"/>
+    <id>https://leadger.com/2019/05/08/sklearn/</id>
+    <published>2019-05-08T12:37:28.000Z</published>
+    <updated>2019-05-08T12:42:23.164Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Scikit-Learn机器学习实践"><a href="#Scikit-Learn机器学习实践" class="headerlink" title="Scikit-Learn机器学习实践"></a>Scikit-Learn机器学习实践</h1><p>[TOC]</p><h2 id="数据生成"><a href="#数据生成" class="headerlink" title="数据生成"></a>数据生成</h2><h2 id="KNN-K最近邻算法"><a href="#KNN-K最近邻算法" class="headerlink" title="KNN(K最近邻算法)"></a>KNN(K最近邻算法)</h2><h2 id="线性回归"><a href="#线性回归" class="headerlink" title="线性回归"></a>线性回归</h2><p>## </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Scikit-Learn机器学习实践&quot;&gt;&lt;a href=&quot;#Scikit-Learn机器学习实践&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Machine Learning" scheme="https://leadger.com/tags/Machine-Learning/"/>
+    
+  </entry>
   
   <entry>
     <title>Try</title>
